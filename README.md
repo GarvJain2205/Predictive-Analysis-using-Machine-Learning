@@ -1,7 +1,5 @@
 # Iris Species Prediction Project
 
-## Author: Sulendra Hembrom
-
 ## Overview
 This project predicts iris flower species using machine learning. It includes:
 - Data preprocessing
